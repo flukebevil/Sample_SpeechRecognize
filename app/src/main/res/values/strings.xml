@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceReconize</string>
+    <string name="hit_for_speech">Speech</string>
+</resources>
